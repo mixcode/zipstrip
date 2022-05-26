@@ -1,4 +1,5 @@
-# zipstrip: a small tool to remove garbage data attached at the end of a ZIP file
+# zipstrip
+a small tool to remove garbage data attached at the end of a ZIP file
 
 ## Usage
 ```
